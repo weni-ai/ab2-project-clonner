@@ -28,3 +28,6 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# files
+delete_knowledge_bases.py
